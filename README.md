@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohit-gadhiya
 - 👀 I’m interested in developing software
 - 🌱 I’m currently learning Data Structures and Algorithms, Web Development and REACT
-- 💞️ I’m looking to collaborate on learning Web Development.
+- 💞️ I’m looking for learning opportunities on Web Development.
 - 📫 you can reach me out at twitter at @Mohit_2308
 
 <!---
